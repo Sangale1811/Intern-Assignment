@@ -15,9 +15,9 @@ This is a basic Reminder app which takes in data(name, Date and Time) from the u
 
 ## Application Flow
 
-=>User log in to application 
-=>Add reminder item (reminder consists name, date and time)
-=>Save data in firebase realtime database
+=> User log in to application 
+=> Add reminder item (reminder consists name, date and time)
+=> Save data in firebase realtime database
 
 ## Technologies Used
 
