@@ -1,2 +1,2 @@
-# Internship-Assignment
+# Intern-Assignment
 Reminder Application with Firebase
